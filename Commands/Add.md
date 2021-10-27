@@ -16,4 +16,4 @@ You can specify tracking directories with `git add DirectoryName1`.
 
 ---
 
-[Back to home](../Readme.md)
+[Back to home](../README.md)
